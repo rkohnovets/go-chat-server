@@ -1,4 +1,4 @@
-module github.com/rkohnovets/go-auth
+module github.com/rkohnovets/go-chat-server
 
 go 1.23
 
